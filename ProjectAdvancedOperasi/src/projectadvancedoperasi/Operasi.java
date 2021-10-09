@@ -18,6 +18,10 @@ public class Operasi {
         return (a+b+c);
     }
     
+    double jumlahkan(double a, double b){
+        return (a+b);
+    }
+    
     double jumlahkan(double a, double b, double c){
         return (a+b+c);
     }
@@ -28,6 +32,10 @@ public class Operasi {
     
     int kalikan(int a, int b, int c){
         return (a*b*c);
+    }
+    
+    double kalikan(double a, double b){
+        return (a*b);
     }
     
     double kalikan(double a, double b, double c){
